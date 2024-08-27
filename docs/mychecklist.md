@@ -10,7 +10,7 @@
 8. Finish all CRUD operations -> done
 9. Rate Limitng -> done
 10. Authorization ( Role based access control ( RBAC ) , Attribute based access control ( ABAC )) -> done
-11. Monitoring and matrics ( Prometheus and Grafana ) 
+11. Monitoring and matrics ( Prometheus and Grafana ) -> later ( low priority )
 12. Collect and vizualize metrics :
     1. Total Requests per Endpoint
     2. Request Distribution
@@ -40,5 +40,4 @@
     26. Transaction Success Rate
     27. Conversion Rates
 13. Caching strategies to improve response times and reduce load time -> done
-14. Excryption and descryption of API request data
-15. Dockersize mrs-api-gateway
+14. Dockersize mrs-api-gateway - now

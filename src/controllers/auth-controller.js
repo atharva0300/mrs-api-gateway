@@ -6,7 +6,8 @@ const {logger : customLogger} = require('../logs/logger/logger.config')
 const apiType = 'auth'
 
 const authRegisterController = async (req , res) => {
-    const newPath = createPath(req.url , apiType)
+    // const newPath = createPath(req.url , apiType)
+    const newPath = "http://movie-reservation-system-backend-auth-service-1:3007/register"
     try{
         const response = await fetch(newPath , {
             method : "POST",

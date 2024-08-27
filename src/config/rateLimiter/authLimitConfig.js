@@ -2,7 +2,7 @@ const {rateLimit} = require('express-rate-limit')
 
 const authLimiter = rateLimit({
     windowMs: 15*60*1000, // 15 mins
-    limit : 1,    // Limit each IP to 100 requests per `window` ( per windoMS duration )
+    limit : 100,    // Limit each IP to 100 requests per `window` ( per windoMS duration )
     standardHeaders : true, // Return rate limit info in the `RateLimit-*` headers
     legacyHeaders : false,  // Disable the `X-RateLimit-*` headers
 })
