@@ -8,7 +8,7 @@
 6. Finish Auth -> done
 7. Finish Admin Level access to services ( Authorization ) -> done
 8. Finish all CRUD operations -> done
-9. Rate Limitng - token bucket, leaky bucket, fixed window counter, sliding log window, sliding window counter, dynamic rate limiting
+9. Rate Limitng -> done
 10. Authentication ( JWT, OAuth2 )
 11. Authorization ( Role based access control ( RBAC ) , Attribute based access control ( ABAC ))
 12. Monitoring and matrics ( Prometheus and Grafana )
@@ -34,11 +34,11 @@
     19. Disk I/O
     20. Network I/O
     21. Uptime and Downtime
-    24. Database Connection Pooling
-    25. User Session Duration
-    26. API Key Usage
-    27. Geographical Distribution
-    28. Transaction Success Rate
-    29. Conversion Rates
+    22. Database Connection Pooling
+    23. User Session Duration
+    24. API Key Usage
+    25. Geographical Distribution
+    26. Transaction Success Rate
+    27. Conversion Rates
 14. Caching strategies to improve response times and reduce load time
 15. Excryption and descryption of API request data
