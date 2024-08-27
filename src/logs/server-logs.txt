@@ -206,3 +206,27 @@
 2024-08-08T16:18:10.641Z [ERROR]: TypeError: fetch failed
 2024-08-27T07:02:09.945Z [INFO]: user registered successfully 201
 2024-08-27T07:35:05.524Z [INFO]: user registered successfully 201
+2024-08-27T08:45:24.080Z [INFO]: login successful 500
+2024-08-27T08:46:02.862Z [INFO]: login successful 500
+2024-08-27T08:46:42.898Z [INFO]: login successful 500
+2024-08-27T08:48:26.564Z [INFO]: login successful 500
+2024-08-27T08:49:51.040Z [INFO]: login successful 500
+2024-08-27T08:49:59.262Z [INFO]: login successful 500
+2024-08-27T08:54:32.481Z [INFO]: login successful 500
+2024-08-27T08:55:28.391Z [INFO]: login successful 400
+2024-08-27T08:57:26.041Z [INFO]: login successful 400
+2024-08-27T08:57:49.450Z [INFO]: login successful 200
+2024-08-27T09:00:48.432Z [INFO]: login successful 200
+2024-08-27T09:05:06.940Z [INFO]: login successful 200
+2024-08-27T09:06:24.629Z [INFO]: login successful 200
+2024-08-27T09:14:36.460Z [INFO]: refresh token successful 200
+2024-08-27T09:15:08.047Z [INFO]: booking fetched
+2024-08-27T09:17:12.126Z [INFO]: refresh token successful 200
+2024-08-27T09:25:32.695Z [INFO]: login successful 200
+2024-08-27T09:28:43.847Z [INFO]: login successful 200
+2024-08-27T09:37:41.339Z [INFO]: get single movie successful 400
+2024-08-27T09:39:09.397Z [INFO]: get single movie successful 200
+2024-08-27T09:44:33.825Z [INFO]: login successful 200
+2024-08-27T09:44:46.049Z [INFO]: login successful 200
+2024-08-27T09:45:05.876Z [INFO]: delete single movie successful 200
+2024-08-27T09:55:35.413Z [INFO]: login successful 200

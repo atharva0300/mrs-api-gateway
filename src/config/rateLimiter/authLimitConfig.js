@@ -16,7 +16,7 @@ const updatePasswordLimiter = rateLimit({
 
 const loginLimiter = rateLimit({
     windowMs: 15*60*1000,   // 15 mins
-    limit : 3,    
+    limit : 100,    
     standardHeaders : true, 
     legacyHeaders : false,  
 })

@@ -1,0 +1,40 @@
+{
+    "roles" : [
+        {
+            "name" : "admin",
+            "permissions" : [
+                "delete_comment",
+                "add_single_movie",
+                "delete_single_movie",
+                "update_single_movie",
+                "get_offer",
+                "add_offer",
+                "add_theater"
+            ]
+        },
+        {
+            "name" : "user",
+            "permissions" : [
+                "book_ticket",
+                "post_comment",
+                "update_comment",
+                "get_offer",
+                "update_username"
+            ]
+        },
+        {
+            "name" : "anon",
+            "permissions" : [
+                "view_comment",
+                "get_all_movies",
+                "get_single_movie",
+                "search",
+                "showtime",
+                "get_all_theaters",
+                "get_single_theater",
+                "get_screen_details_id",
+                "get_screen_details_theater_id"
+            ]
+        }
+    ]
+}

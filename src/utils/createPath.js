@@ -3,7 +3,7 @@ const dotenv = require('dotenv')
 // const {URL} = require('url')
 dotenv.config()
 
-const logsList = ['server' , 'booking',  'auth' , 'movie' , 'notification' , 'search' , 'user' , 'showtime' , 'comment' , 'theater' , 'offer' , 'general']
+const logsList = ['server' , 'booking',  'auth' , 'movies' , 'notification' , 'search' , 'user' , 'showtime' , 'comment' , 'theater' , 'offer' , 'general']
 const apiTypePortMapping = {
     'auth' : process.env.AUTH_PORT,
     'movies' : process.env.MOVIE_PORT,
