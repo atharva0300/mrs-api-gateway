@@ -230,3 +230,25 @@
 2024-08-27T09:44:46.049Z [INFO]: login successful 200
 2024-08-27T09:45:05.876Z [INFO]: delete single movie successful 200
 2024-08-27T09:55:35.413Z [INFO]: login successful 200
+2024-08-27T10:21:34.747Z [INFO]: get all movies successful 200
+2024-08-27T10:36:10.408Z [INFO]: get all movies successful 200
+2024-08-27T10:37:04.676Z [INFO]: get all movies successful 200
+2024-08-27T10:37:18.809Z [INFO]: get all movies successful 200
+2024-08-27T10:37:55.436Z [INFO]: get all movies successful 200
+2024-08-27T10:45:08.448Z [ERROR]: TypeError: fetch failed
+2024-08-27T11:15:20.827Z [ERROR]: TypeError: fetch failed
+2024-08-27T11:15:35.649Z [INFO]: get all movies successful 500
+2024-08-27T11:16:34.936Z [INFO]: get all movies successful 500
+2024-08-27T11:19:21.503Z [INFO]: get all movies successful 500
+2024-08-27T11:19:49.565Z [INFO]: get all movies successful 200
+2024-08-27T11:19:56.475Z [INFO]: get all movies successful 500
+2024-08-27T11:21:42.812Z [INFO]: get all movies successful 200
+2024-08-27T11:21:55.300Z [INFO]: get all movies successful 200
+2024-08-27T11:22:25.988Z [INFO]: get all movies successful 200
+2024-08-27T11:22:27.413Z [INFO]: get all movies successful 200
+2024-08-27T11:22:29.330Z [INFO]: get all movies successful 200
+2024-08-27T11:22:31.106Z [INFO]: get all movies successful 200
+2024-08-27T11:22:32.605Z [INFO]: get all movies successful 200
+2024-08-27T11:22:34.007Z [INFO]: get all movies successful 200
+2024-08-27T11:22:35.855Z [INFO]: get all movies successful 200
+2024-08-27T11:22:37.673Z [INFO]: get all movies successful 200

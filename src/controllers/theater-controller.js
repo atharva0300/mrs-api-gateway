@@ -14,7 +14,7 @@ const commonFetch = async(req , res , errorMessage , successMessage) => {
         const data = await response.json()
         if(response.status == 200){
             customLogger.info(successMessage , 'theater')
-            return res.status(response.status).json({message : data.message , data : data.data})
+            return res.status(response.status).json(data)
         }else{
             customLogger.info(data.message, 'theater')
             return res.status(response.status).json({message : data.message})

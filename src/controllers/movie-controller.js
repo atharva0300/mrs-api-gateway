@@ -19,7 +19,7 @@ const getAllMovies = async (req , res) => {
             })
             const data = await response.json()
             customLogger.info(`get all movies successful ${response.status}` , 'server')
-            return res.status(response.status).json({message : data.message , data : data.data })
+            return res.status(response.status).json(data)
         }catch(err){
             console.log('err : ' , err)
             customLogger.error(err , 'server')
