@@ -1,0 +1,1 @@
+// Used for defining the roles ofr RBAC

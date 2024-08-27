@@ -104,3 +104,4 @@
 2024-08-08T15:08:27.916Z [INFO]: login successful
 2024-08-08T15:09:46.841Z [INFO]: login successful
 2024-08-08T15:39:25.738Z [INFO]: login successful
+2024-08-27T07:01:30.335Z [ERROR]: DB error

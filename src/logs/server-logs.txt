@@ -204,3 +204,4 @@
 2024-08-08T15:38:58.249Z [ERROR]: TypeError: fetch failed
 2024-08-08T15:39:25.756Z [INFO]: login successful 200
 2024-08-08T16:18:10.641Z [ERROR]: TypeError: fetch failed
+2024-08-27T07:02:09.945Z [INFO]: user registered successfully 201
