@@ -1,0 +1,20 @@
+2024-08-08T07:31:51.812Z [INFO]: all theaters feched
+2024-08-08T07:31:51.827Z [INFO]: all theaters fetched successfully
+2024-08-08T07:35:00.090Z [INFO]: all theaters feched
+2024-08-08T07:35:00.112Z [INFO]: all theaters fetched successfully
+2024-08-08T07:37:02.090Z [INFO]: theater with id fetched
+2024-08-08T07:37:02.109Z [INFO]: all theaters fetched successfully
+2024-08-08T07:37:25.851Z [INFO]: screen details with the theater id fetched
+2024-08-08T07:37:25.860Z [INFO]: all theaters fetched successfully
+2024-08-08T07:37:45.235Z [INFO]: seat details with the screen id fetched
+2024-08-08T07:37:45.246Z [INFO]: all theaters fetched successfully
+2024-08-08T07:38:47.856Z [INFO]: seat details with the screen id fetched
+2024-08-08T07:38:47.866Z [INFO]: all theaters fetched successfully
+2024-08-08T08:26:00.105Z [INFO]: theater with id fetched
+2024-08-08T08:26:00.125Z [INFO]: all theaters fetched successfully
+2024-08-08T08:30:36.816Z [INFO]: all theaters feched
+2024-08-08T08:30:36.831Z [INFO]: all theaters fetched successfully
+2024-08-08T08:30:40.849Z [INFO]: screen details with the theater id fetched
+2024-08-08T08:30:40.859Z [INFO]: all theaters fetched successfully
+2024-08-08T08:30:44.132Z [INFO]: seat details with the screen id fetched
+2024-08-08T08:30:44.142Z [INFO]: all theaters fetched successfully

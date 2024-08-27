@@ -1,0 +1,206 @@
+2024-08-07T12:56:03.360Z [INFO]: booking fetched
+2024-08-07T13:11:12.215Z [INFO]: booking fetched
+2024-08-07T13:13:07.178Z [INFO]: booking fetched
+2024-08-07T13:13:54.000Z [INFO]: booking fetched
+2024-08-07T13:16:51.823Z [INFO]: booking fetched
+2024-08-07T13:17:13.143Z [INFO]: booking fetched
+2024-08-07T13:17:37.827Z [INFO]: booking fetched
+2024-08-07T13:18:03.065Z [INFO]: booking fetched
+2024-08-07T13:18:28.896Z [INFO]: booking fetched
+2024-08-07T13:19:41.109Z [INFO]: booking fetched
+2024-08-07T13:19:49.532Z [INFO]: booking fetched
+2024-08-07T13:20:48.176Z [INFO]: booking fetched
+2024-08-07T13:21:17.682Z [INFO]: booking fetched
+2024-08-07T13:21:46.427Z [INFO]: booking fetched
+2024-08-07T13:22:26.960Z [INFO]: booking fetched
+2024-08-07T13:24:26.124Z [INFO]: booking fetched
+2024-08-07T13:25:41.845Z [INFO]: booking fetched
+2024-08-07T13:26:08.092Z [INFO]: booking fetched
+2024-08-07T13:26:55.611Z [INFO]: booking fetched
+2024-08-07T13:29:33.840Z [INFO]: booking fetched
+2024-08-07T13:31:14.413Z [INFO]: booking fetched
+2024-08-07T13:32:15.649Z [INFO]: booking fetched
+2024-08-07T13:34:17.790Z [INFO]: booking fetched
+2024-08-07T13:41:36.698Z [INFO]: booking fetched
+2024-08-07T13:42:24.949Z [INFO]: booking fetched
+2024-08-07T13:43:53.101Z [INFO]: booking fetched
+2024-08-07T13:44:11.953Z [INFO]: booking fetched
+2024-08-07T13:44:35.225Z [INFO]: booking fetched
+2024-08-07T13:44:59.232Z [INFO]: booking fetched
+2024-08-07T13:45:10.941Z [INFO]: booking fetched
+2024-08-07T13:45:31.870Z [INFO]: booking fetched
+2024-08-07T13:46:31.235Z [INFO]: booking fetched
+2024-08-07T13:50:44.346Z [INFO]: booking fetched
+2024-08-07T13:51:20.671Z [INFO]: booking fetched
+2024-08-07T13:52:23.738Z [INFO]: booking fetched
+2024-08-07T14:51:51.320Z [INFO]: booking fetched
+2024-08-07T14:53:49.072Z [INFO]: booking fetched
+2024-08-07T14:55:18.426Z [INFO]: booking fetched
+2024-08-07T15:03:06.539Z [INFO]: booking fetched
+2024-08-07T15:03:49.905Z [INFO]: booking fetched
+2024-08-07T15:04:49.219Z [INFO]: booking fetched
+2024-08-07T15:05:25.805Z [INFO]: booking fetched
+2024-08-07T15:06:14.852Z [INFO]: booking fetched
+2024-08-07T15:08:07.798Z [INFO]: booking fetched
+2024-08-07T15:09:06.967Z [INFO]: booking fetched
+2024-08-07T15:11:56.291Z [INFO]: booking fetched
+2024-08-07T15:13:26.720Z [INFO]: booking fetched
+2024-08-07T15:14:28.627Z [INFO]: booking fetched
+2024-08-07T15:14:47.030Z [INFO]: booking fetched
+2024-08-07T15:14:54.224Z [INFO]: booking fetched
+2024-08-07T15:17:31.883Z [INFO]: booking fetched
+2024-08-08T03:27:58.697Z [INFO]: get all movies successful 200
+2024-08-08T03:29:33.407Z [INFO]: get all movies successful 200
+2024-08-08T03:29:58.567Z [INFO]: get single movie successful 200
+2024-08-08T03:30:12.787Z [INFO]: get all movies successful 200
+2024-08-08T03:31:42.221Z [INFO]: get all movies successful 200
+2024-08-08T03:32:16.405Z [INFO]: get all movies successful 200
+2024-08-08T03:32:36.581Z [INFO]: get all movies successful 200
+2024-08-08T03:33:03.773Z [INFO]: get all movies successful 500
+2024-08-08T03:33:09.296Z [INFO]: get all movies successful 500
+2024-08-08T03:34:47.026Z [INFO]: get all movies successful 500
+2024-08-08T03:35:04.706Z [INFO]: get all movies successful 200
+2024-08-08T03:36:46.137Z [INFO]: delete single movie successful 200
+2024-08-08T03:36:58.402Z [INFO]: get single movie successful 200
+2024-08-08T03:37:20.732Z [INFO]: get single movie successful 200
+2024-08-08T03:38:07.956Z [INFO]: delete single movie successful 200
+2024-08-08T03:38:17.037Z [INFO]: get single movie successful 200
+2024-08-08T03:38:46.505Z [INFO]: delete single movie successful 200
+2024-08-08T03:41:17.187Z [INFO]: delete single movie successful 200
+2024-08-08T03:41:33.689Z [INFO]: get single movie successful 200
+2024-08-08T03:45:16.914Z [INFO]: get single movie successful 200
+2024-08-08T03:45:22.695Z [INFO]: delete single movie successful 400
+2024-08-08T03:47:00.190Z [INFO]: delete single movie successful 400
+2024-08-08T03:48:09.413Z [INFO]: delete single movie successful 400
+2024-08-08T03:48:23.507Z [INFO]: get single movie successful 400
+2024-08-08T04:10:48.276Z [ERROR]: SyntaxError: Unexpected token < in JSON at position 0
+2024-08-08T04:12:33.779Z [INFO]: update single movie successful 500
+2024-08-08T04:13:26.517Z [INFO]: update single movie successful 500
+2024-08-08T04:13:47.246Z [INFO]: update single movie successful 500
+2024-08-08T04:15:26.409Z [INFO]: update single movie successful 201
+2024-08-08T04:18:48.010Z [INFO]: update single movie successful 400
+2024-08-08T04:21:02.298Z [INFO]: update single movie successful 400
+2024-08-08T04:21:12.376Z [INFO]: update single movie successful 400
+2024-08-08T04:23:37.198Z [INFO]: update single movie successful 400
+2024-08-08T04:24:17.787Z [INFO]: update single movie successful 400
+2024-08-08T04:37:27.725Z [INFO]: update single movie successful 400
+2024-08-08T04:38:31.781Z [INFO]: update single movie successful 400
+2024-08-08T04:40:37.937Z [INFO]: update single movie successful 201
+2024-08-08T04:51:21.341Z [ERROR]: TypeError: fetch failed
+2024-08-08T04:51:57.477Z [ERROR]: TypeError: fetch failed
+2024-08-08T04:52:14.694Z [ERROR]: TypeError: fetch failed
+2024-08-08T07:48:05.164Z [INFO]: search term successful 400
+2024-08-08T08:24:36.691Z [INFO]: search term successful 400
+2024-08-08T12:08:06.322Z [INFO]: login successful 500
+2024-08-08T12:12:28.593Z [INFO]: login successful 500
+2024-08-08T12:13:02.021Z [INFO]: login successful 500
+2024-08-08T12:14:29.183Z [INFO]: login successful 500
+2024-08-08T12:14:42.169Z [INFO]: login successful 500
+2024-08-08T12:14:57.018Z [INFO]: login successful 500
+2024-08-08T12:15:37.744Z [INFO]: login successful 500
+2024-08-08T12:16:03.926Z [INFO]: login successful 500
+2024-08-08T12:16:09.142Z [INFO]: login successful 500
+2024-08-08T12:16:51.718Z [INFO]: login successful 200
+2024-08-08T12:21:50.426Z [INFO]: login successful 200
+2024-08-08T12:22:25.924Z [INFO]: login successful 200
+2024-08-08T12:23:39.695Z [INFO]: login successful 200
+2024-08-08T12:25:32.529Z [INFO]: login successful 200
+2024-08-08T12:27:35.506Z [INFO]: login successful 200
+2024-08-08T12:36:32.572Z [INFO]: login successful 200
+2024-08-08T12:36:56.886Z [INFO]: login successful 200
+2024-08-08T12:38:43.133Z [INFO]: login successful 200
+2024-08-08T12:39:07.714Z [INFO]: login successful 200
+2024-08-08T12:58:43.473Z [INFO]: login successful 200
+2024-08-08T13:01:19.389Z [ERROR]: TypeError: fetch failed
+2024-08-08T13:01:26.865Z [INFO]: login successful 200
+2024-08-08T13:02:33.521Z [ERROR]: SyntaxError: Unexpected token U in JSON at position 0
+2024-08-08T13:02:37.710Z [ERROR]: SyntaxError: Unexpected token U in JSON at position 0
+2024-08-08T13:04:50.386Z [INFO]: login successful 200
+2024-08-08T13:04:53.506Z [ERROR]: SyntaxError: Unexpected token U in JSON at position 0
+2024-08-08T13:05:36.208Z [INFO]: login successful 200
+2024-08-08T13:05:38.947Z [ERROR]: SyntaxError: Unexpected token U in JSON at position 0
+2024-08-08T13:07:18.061Z [ERROR]: SyntaxError: Unexpected token U in JSON at position 0
+2024-08-08T13:08:35.353Z [ERROR]: SyntaxError: Unexpected token U in JSON at position 0
+2024-08-08T13:09:01.971Z [ERROR]: SyntaxError: Unexpected token U in JSON at position 0
+2024-08-08T13:11:19.392Z [INFO]: refresh token successful undefined
+2024-08-08T13:11:19.401Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T13:11:41.189Z [INFO]: login successful 200
+2024-08-08T13:11:45.088Z [INFO]: refresh token successful undefined
+2024-08-08T13:11:45.095Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T13:12:55.371Z [INFO]: refresh token successful undefined
+2024-08-08T13:12:55.381Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T13:13:27.885Z [INFO]: login successful 200
+2024-08-08T13:13:31.850Z [INFO]: refresh token successful undefined
+2024-08-08T13:13:31.859Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T13:14:00.034Z [INFO]: refresh token successful 401
+2024-08-08T13:14:00.045Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T13:14:44.435Z [INFO]: login successful 200
+2024-08-08T13:14:48.036Z [INFO]: refresh token successful 401
+2024-08-08T13:15:25.862Z [INFO]: refresh token successful 401
+2024-08-08T13:16:04.909Z [INFO]: login successful 200
+2024-08-08T13:16:08.556Z [INFO]: refresh token successful 401
+2024-08-08T13:19:57.299Z [INFO]: login successful 200
+2024-08-08T13:20:01.289Z [INFO]: refresh token successful 401
+2024-08-08T13:20:44.961Z [INFO]: refresh token successful 401
+2024-08-08T13:22:18.759Z [INFO]: login successful 200
+2024-08-08T13:22:21.811Z [INFO]: refresh token successful 401
+2024-08-08T13:22:42.140Z [ERROR]: TypeError: fetch failed
+2024-08-08T13:25:47.608Z [INFO]: login successful 200
+2024-08-08T13:25:50.573Z [ERROR]: TypeError: fetch failed
+2024-08-08T13:26:18.641Z [ERROR]: TypeError: fetch failed
+2024-08-08T13:26:38.477Z [INFO]: refresh token successful 403
+2024-08-08T13:27:04.887Z [INFO]: refresh token successful 403
+2024-08-08T13:27:43.262Z [INFO]: refresh token successful 403
+2024-08-08T13:28:18.543Z [INFO]: refresh token successful 403
+2024-08-08T13:28:54.183Z [INFO]: refresh token successful 200
+2024-08-08T13:29:00.950Z [INFO]: refresh token successful 200
+2024-08-08T13:29:13.024Z [INFO]: refresh token successful 200
+2024-08-08T14:06:52.141Z [INFO]: login successful 200
+2024-08-08T14:07:46.921Z [INFO]: login successful 200
+2024-08-08T14:07:50.161Z [ERROR]: SyntaxError: Unexpected token < in JSON at position 0
+2024-08-08T14:08:36.880Z [ERROR]: SyntaxError: Unexpected token < in JSON at position 0
+2024-08-08T14:09:22.409Z [ERROR]: TypeError: response.status is not a function
+2024-08-08T14:09:33.384Z [INFO]: login successful 200
+2024-08-08T14:09:36.726Z [ERROR]: TypeError: response.status is not a function
+2024-08-08T14:10:20.028Z [INFO]: login successful 200
+2024-08-08T14:10:23.646Z [ERROR]: SyntaxError: Unexpected end of JSON input
+2024-08-08T14:12:03.426Z [INFO]: login successful 200
+2024-08-08T14:12:07.195Z [ERROR]: SyntaxError: Unexpected end of JSON input
+2024-08-08T14:13:32.696Z [ERROR]: SyntaxError: Unexpected end of JSON input
+2024-08-08T14:15:17.102Z [ERROR]: ReferenceError: reponse is not defined
+2024-08-08T14:15:26.322Z [ERROR]: SyntaxError: Unexpected end of JSON input
+2024-08-08T14:17:33.192Z [INFO]: cookie cleared
+2024-08-08T14:17:33.195Z [ERROR]: TypeError: res.status(...).join is not a function
+2024-08-08T14:17:56.620Z [INFO]: cookie cleared
+2024-08-08T14:18:40.616Z [INFO]: cookie cleared
+2024-08-08T14:18:49.881Z [INFO]: cookie cleared
+2024-08-08T14:18:55.616Z [INFO]: cookie cleared
+2024-08-08T14:19:10.687Z [INFO]: login successful 200
+2024-08-08T14:19:15.022Z [INFO]: cookie cleared
+2024-08-08T14:19:55.188Z [INFO]: cookie cleared
+2024-08-08T14:20:07.542Z [INFO]: cookie cleared
+2024-08-08T14:20:19.469Z [INFO]: login successful 200
+2024-08-08T14:20:23.388Z [INFO]: cookie cleared
+2024-08-08T14:23:46.475Z [INFO]: cookie cleared
+2024-08-08T14:24:57.175Z [INFO]: login successful 200
+2024-08-08T14:27:17.368Z [INFO]: cookie cleared
+2024-08-08T14:29:24.053Z [INFO]: login successful 200
+2024-08-08T14:40:40.221Z [INFO]: login successful 200
+2024-08-08T14:40:52.157Z [INFO]: login successful 200
+2024-08-08T14:45:02.255Z [INFO]: login successful 200
+2024-08-08T14:45:51.773Z [INFO]: login successful 200
+2024-08-08T14:46:35.397Z [INFO]: login successful 200
+2024-08-08T14:46:48.218Z [INFO]: login successful 200
+2024-08-08T14:49:24.450Z [INFO]: login successful 200
+2024-08-08T14:50:41.492Z [INFO]: login successful 200
+2024-08-08T14:52:43.598Z [INFO]: login successful 200
+2024-08-08T14:53:27.589Z [INFO]: login successful 200
+2024-08-08T15:00:06.924Z [INFO]: login successful 200
+2024-08-08T15:01:12.333Z [INFO]: login successful 200
+2024-08-08T15:04:21.945Z [INFO]: login successful 200
+2024-08-08T15:06:05.704Z [INFO]: login successful 200
+2024-08-08T15:08:27.923Z [INFO]: login successful 200
+2024-08-08T15:09:46.875Z [INFO]: login successful 200
+2024-08-08T15:38:58.249Z [ERROR]: TypeError: fetch failed
+2024-08-08T15:39:25.756Z [INFO]: login successful 200
+2024-08-08T16:18:10.641Z [ERROR]: TypeError: fetch failed

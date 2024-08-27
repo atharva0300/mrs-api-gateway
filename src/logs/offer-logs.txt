@@ -1,0 +1,21 @@
+2024-08-08T06:53:15.392Z [ERROR]: SyntaxError: Unexpected token < in JSON at position 0
+2024-08-08T06:53:32.971Z [ERROR]: SyntaxError: Unexpected token < in JSON at position 0
+2024-08-08T06:54:34.316Z [INFO]: found the offer
+2024-08-08T06:54:53.202Z [INFO]: found the offer
+2024-08-08T06:55:11.816Z [INFO]: found the offer
+2024-08-08T06:55:27.243Z [INFO]: offerCode does not exists
+2024-08-08T06:55:32.237Z [INFO]: found the offer
+2024-08-08T15:01:31.292Z [ERROR]: TypeError: fetch failed
+2024-08-08T15:02:08.159Z [ERROR]: TypeError: fetch failed
+2024-08-08T15:04:35.458Z [INFO]: found the offer
+2024-08-08T15:04:35.475Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T15:05:19.781Z [INFO]: found the offer
+2024-08-08T15:05:19.833Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T15:06:16.347Z [INFO]: found the offer
+2024-08-08T15:06:16.365Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T15:06:24.583Z [INFO]: found the offer
+2024-08-08T15:06:24.611Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T15:08:44.715Z [INFO]: found the offer
+2024-08-08T15:08:44.728Z [ERROR]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-08-08T15:09:59.750Z [INFO]: found the offer
+2024-08-08T15:10:12.690Z [INFO]: found the offer

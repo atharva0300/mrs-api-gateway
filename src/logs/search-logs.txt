@@ -1,0 +1,6 @@
+2024-08-08T07:48:05.090Z [INFO]: movie : search not found
+2024-08-08T07:48:05.136Z [INFO]: theater : search not found
+2024-08-08T07:48:05.139Z [INFO]: theater : search not found
+2024-08-08T08:24:36.619Z [INFO]: movie : search not found
+2024-08-08T08:24:36.675Z [INFO]: theater : search not found
+2024-08-08T08:24:36.677Z [INFO]: theater : search not found
