@@ -17,7 +17,7 @@ const createCommentController = async(req , res) => {
             body : JSON.stringify(req.body)
         })
         const data = await response.json()
-        return res.status(response.status).json({message : data.message})
+        return res.status(response.status).json(data)
     }catch(err){
         customLogger.error(err , 'comment')
         return res.status(500).json({message : 'createCommentController error'})
@@ -35,7 +35,7 @@ const getCommentsByMovieController = async(req , res) => {
             }
         })
         const data = await response.json()
-        return res.status(response.status).json({message : data.message})
+        return res.status(response.status).json(data)
     }catch(err){
         customLogger.error(err , 'comment')
         return res.status(500).json({message : 'createCommentController error'})
@@ -53,7 +53,7 @@ const updateCommentController = async(req , res) => {
             body : JSON.stringify(req.body)
         })
         const data = await response.json()
-        return res.status(response.status).json({message : data.message})
+        return res.status(response.status).json(data)
     }catch(err){
         customLogger.error(err , 'comment')
         return res.status(500).json({message : 'createCommentController error'})
@@ -70,7 +70,7 @@ const deleteCommentController = async(req , res) => {
             }
         })
         const data = await response.json()
-        return res.status(response.status).json({message : data.message})
+        return res.status(response.status).json(data)
     }catch(err){
         customLogger.error(err , 'comment')
         return res.status(500).json({message : 'createCommentController error'})

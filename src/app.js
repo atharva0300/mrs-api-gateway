@@ -1,11 +1,8 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const cors = require('cors')
-const dotenv = require('dotenv')
 const cookieParser = require('cookie-parser')
 
-// loading the dotenv file
-dotenv.config()
 
 const app = express();
 
@@ -18,7 +15,7 @@ app.use(cookieParser()) // middleware for cookies
 
 // routes 
 app.use('/api/auth/' , require('./routes/auth-route'))
-app.use('/api/movies/' , require('./routes/movie-route'))
+app.use('/api/movie/' , require('./routes/movie-route'))
 app.use('/api/search' , require('./routes/search-route'))
 app.use('/api/slots/' , require('./routes/showtime-route'))
 app.use('/api/booking/' , require('./routes/booking-route'))

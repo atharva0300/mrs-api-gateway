@@ -15,7 +15,7 @@ const getOfferDiscountController = async(req , res) => {
         })
         const data = await response.json()
         if(response.status == 200){
-            return res.status(response.status).json({message : data.message , data : data.data})    
+            return res.status(response.status).json(data)    
         }else{
             return res.status(response.status).json({message : data.message})
         }

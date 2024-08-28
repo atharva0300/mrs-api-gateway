@@ -24,7 +24,7 @@ const authRegisterController = async (req , res) => {
         }
         
         customLogger.info(`user registered successfully ${response.status}` , 'server')
-        return res.status(response.status).json({message : data.message})
+        return res.status(response.status).json(data)
     }catch(err){
         customLogger.error(err , 'server')
         return res.status(500).json({message : err.message})
@@ -44,7 +44,7 @@ const authLoginController = async (req , res) => {
         const data = await response.json()
         customLogger.info(`login successful ${response.status}` , 'server')
         res.cookie(data.jwtName , data.refreshToken , {httpOnly : data.httpOnly , maxAge : data.maxAge})
-        return res.status(response.status).json({message : data.message , data : data.data})
+        return res.status(response.status).json(data)
     }catch(err){
         customLogger.error(err , 'server')
         res.status(500).json({message : err.message})
@@ -65,7 +65,7 @@ const authRefreshTokenController = async (req , res) => {
         })
         const data = await response.json();
         customLogger.info(`refresh token successful ${response.status}` , 'server')
-        return res.status(response.status).json({message : data.message , data : data.data})
+        return res.status(response.status).json(data)
     }catch(err){
         console.log('err : ' , err)
         customLogger.error(err , 'server')
@@ -84,7 +84,7 @@ const updatePasswordController = async(req , res) => {
             body : JSON.stringify(req.body)
         })
         const data = await response.json()
-        return res.status(response.status).json({message : data.message})
+        return res.status(response.status).json(data)
     }catch(err){
         customLogger.error(err , 'server')
         res.status(500).json({message : 'Error in updatePasswordController'})

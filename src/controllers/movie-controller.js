@@ -1,7 +1,6 @@
-const express = require('express')
 const createPath = require('../utils/createPath')
 
-const apiType = 'movies'
+const apiType = 'movie'
 
 // logger 
 const {logger : customLogger} = require('../logs/logger/logger.config')
@@ -40,7 +39,7 @@ const addSingleMovie = async(req , res) => {
         })
         const data = await response.json();
         customLogger.info(`add single movie successful ${response.status}` , 'server')
-        return res.status(response.status).json({message : data.message})
+        return res.status(response.status).json(data)
     }catch(err){
         console.log('err : ' , err)
         customLogger.error(err , 'server')
@@ -86,7 +85,7 @@ const updateSingleMovie = async(req , res) => {
         })
         const data = await response.json();
         customLogger.info(`update single movie successful ${response.status}` , 'server')
-        return res.status(response.status).json({message : data.message})
+        return res.status(response.status).json(data)
     }catch(err){
         console.log('err : ' , err)
         customLogger.error(err , 'server')
@@ -107,7 +106,7 @@ const deleteSingleMovie = async(req , res) => {
         })
         const data = await response.json();
         customLogger.info(`delete single movie successful ${response.status}` , 'server')
-        return res.status(response.status).json({message : data.message})
+        return res.status(response.status).json(data)
     }catch(err){
         console.log('err : ' , err)
         customLogger.error(err , 'server')
